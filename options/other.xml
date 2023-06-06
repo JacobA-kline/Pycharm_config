@@ -1,0 +1,216 @@
+<application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="2CyF4ou0RrsDwC3jI9WHU9vGwpS">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2CypVNySI7WFC4wpCArruKyCk78">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2CyrGIz17chiN4CBqZnorFAZnXV">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2Cyt0eg9mgsqulkHh1vk25pqhJL">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2CyuFsyAZXrLaYSb9XTI6QjvyXU">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2DTWW93gaGBcGfbzUNfXI1Vzpoa">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2DXRCpN179YiqpLVds4Zl4w7Twg">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2DesS8n1aZcor8W4fBgQQC5wVzx">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2DnMaKwFKzbW28QeCNVOmf0kIpf">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2FMCFBmGQkpLd6lLGLywQArL06G">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2GOZDSwMzE08cfgPO8hic5t42MT">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2GX3UhwVQvQMVhoFRCzcivbdtpJ">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2GfZCD9b3RWsJGCi6TBDHzmMNu2">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2Gj41EJ2qr8ygbYayJvgrJDjE5u">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2Gkyp7sEaG9ITBxPprHnUyWKeVm">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2HDkwf9mA1jAE6XqAUSkC5vmpJE">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2HDnaVP16kHulU7fE6hxcgKr1La">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2HDqIURPse5sVpG2rxtwn8g6qta">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2HWu47lg8dKGq7A9TZenGFTYC0Y">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2HgOn8C60leDUOE257PjFIvps37">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2IGASTrSek7dkt7iMGZIxJ4hnfy">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontScale" value="1.0" />
+    <option name="fontSize" value="18.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CWM_LOGGING_VERSION": "1",
+    "ExpandBeforeRunStepsPanel": "true",
+    "FindSplitterProportion": "0.33687654",
+    "InstalledPluginsSearchHistory": "he\nh\nhel\nhelm\nhtml",
+    "MarketplacePluginsSearchHistory": "helm\nhel\nhe\nhtml\ngruv",
+    "NonModalCommitCustomization.IsApplied": "true",
+    "PyCharm.InitialConfiguration": "true",
+    "PyCharm.InitialConfiguration.V2": "true",
+    "PyCharm.InitialConfiguration.V3": "true",
+    "PyCharm.InitialConfiguration.V4": "true",
+    "PyCharm.InitialConfiguration.V5": "true",
+    "PyCharm.InitialConfiguration.V6": "true",
+    "PyCharm.InitialConfiguration.V7": "true",
+    "PyCharm.InitialConfiguration.V8": "true",
+    "RunOnceActivity.se.text.search": "true",
+    "SHELLCHECK.PATH": "/home/jacob/.local/share/JetBrains/PyCharmCE2022.2/Shell Script/shellcheck",
+    "SettingsSearchHistory": "pl\ndeb",
+    "TextEditorWithPreview.SplitterProportionKey": "0.43480936",
+    "appcds.runOnSecondStart": "PC-231.8770.66-e55db50aa0051300415fcdf7f7fb20891638b9c9593b77dd9fd385359796efcb",
+    "bidi.content.notification.disable": "true",
+    "bundled.plugins.list.saved.version": "PC-231.8770.66",
+    "experimental.ui.used.once": "true",
+    "experimentalFeature.terminal.shell.command.handling": "false",
+    "file.gist.reindex.count": "43",
+    "fileTypeChangedCounter": "21",
+    "fontSizeToResetConsole": "20.0",
+    "fontSizeToResetEditor": "20.0",
+    "got.it.tooltip.builtin.web.server.reload.on.save": "1",
+    "got.it.tooltip.reader.mode.got.it": "1",
+    "got.it.tooltip.web.preview.reload.on.save": "1",
+    "gotit.previous.run": "PC-231.8770.66",
+    "ide.memory.adjusted": "true",
+    "ide.updates.old.dirs.scan.scheduled": "1684235791793",
+    "ide.updates.previous.build.number": "PC-231.8770.66",
+    "ideavim.statistics.timestamp": "1672075695318",
+    "ignoreUltimateEdition": "true",
+    "input.method.disabler.muted": "true",
+    "last_opened_file_path": "/home/jacob/PycharmProjects/sum-columns",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "previousColorScheme": "_@user_One Dark Vivid",
+    "registry.to.advanced.settings.migration.build": "PC-231.8770.66",
+    "selected.color.option.type": "EVALUATED_EXPRESSION_ATTRIBUTES",
+    "tabnine-notifications-shown-\"preview-notification-1\"_1667634092838": "true",
+    "tabnine-notifications-shown-\"preview-notification-1\"_1669798664328": "true",
+    "tabnine-notifications-shown-\"preview-notification-2\"_1668709638754": "true",
+    "tabnine-notifications-shown-A-Pro-trial-announcement-46_1668104933178": "true",
+    "tabnine-notifications-shown-B-Pro-trial-announcement-46_1668710506116": "true",
+    "tasks.pass.word.conversion.enforced": "true"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/jacob/Downloads/tip_calc",
+      "/home/jacob/PycharmProjects/sum-columns",
+      "/home/jacob/PycharmProjects/spotify-playlist",
+      "/usr/local/bin/python3.8",
+      "/home/jacob/PycharmProjects/bash-scripts",
+      "/usr/bin/python3.10",
+      "/usr/bin/python3"
+    ],
+    "fileTypeDetectors": [
+      "ru.meanmail.fileTypes.RequirementsFileTypeDetector",
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="ShownTips">{
+  &quot;shownTips&quot;: {
+    &quot;GoToAction&quot;: 1672824002346,
+    &quot;LiveTemplates&quot;: 1671698915821,
+    &quot;CtrlW&quot;: 1672393123557,
+    &quot;SpeedSearch&quot;: 1675195671795,
+    &quot;ParameterInfo&quot;: 1671608246148,
+    &quot;TabInLookups&quot;: 1673339049038,
+    &quot;QuickJavaDoc&quot;: 1671271451065,
+    &quot;SearchEverywhere&quot;: 1674985870657,
+    &quot;GoToDeclaration&quot;: 1674640249419,
+    &quot;RecentFiles&quot;: 1672561376234,
+    &quot;Escape&quot;: 1671105792032,
+    &quot;ShowUsages&quot;: 1675413180976,
+    &quot;SurroundWith&quot;: 1673852709282,
+    &quot;FindReplaceToggle&quot;: 1672128776119,
+    &quot;local_history&quot;: 1671526325611,
+    &quot;FindInPath&quot;: 1674546449712,
+    &quot;OverrideImplementMethods&quot;: 1671171341390,
+    &quot;GoToFile&quot;: 1672929204790,
+    &quot;CtrlShiftI&quot;: 1675265348469,
+    &quot;IntroduceVariable&quot;: 1673161939418
+  }
+}</component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="WorldOfGames-history" project-path="$USER_HOME$/PycharmProjects/WorldOfGames" last-access-time="1683630986720" />
+    </command-history-files>
+  </component>
+</application>

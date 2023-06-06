@@ -1,0 +1,321 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="demo" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jojo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Python">
+      <summary usageCount="101" lastUsed="1672393114381" />
+    </fileType>
+    <fileType name="Shell Script">
+      <summary usageCount="6" lastUsed="1662212797837" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/postWeight.py" />
+      <option value="$PROJECT_DIR$/weight.py" />
+      <option value="$PROJECT_DIR$/hstatus.py" />
+      <option value="$PROJECT_DIR$/getItem.py" />
+      <option value="$PROJECT_DIR$/config.py" />
+      <option value="$USER_HOME$/Develeap/week_3/jacob-gan-shmuel/gan-shmuel/Weight/pyapp/getItem.py" />
+      <option value="$USER_HOME$/Develeap/week_3/jacob-gan-shmuel/gan-shmuel/Weight/pyapp/createdb.py" />
+      <option value="$USER_HOME$/Develeap/week_3/jacob-gan-shmuel/gan-shmuel/Weight/pyapp/weight.py" />
+      <option value="$USER_HOME$/Develeap/week_3/jacob-gan-shmuel/gan-shmuel/Weight/pyapp/b.py" />
+      <option value="$USER_HOME$/Develeap/week_3/jacob-gan-shmuel/gan-shmuel/Weight/pyapp/c.py" />
+      <option value="$USER_HOME$/Develeap/week_3/jacob-gan-shmuel/gan-shmuel/Weight/pyapp/a.py" />
+      <option value="$USER_HOME$/Desktop/entry.sh" />
+      <option value="$USER_HOME$/Develeap/week_4/day_2/foodtrucks/project/flask-app/app.py" />
+      <option value="$USER_HOME$/Develeap/week_4/day_2/foodtrucks/project/init.sh" />
+      <option value="$USER_HOME$/Develeap/week_4/day_2/foodtrucks/project/flask-app/entry.sh" />
+      <option value="$PROJECT_DIR$/main.py" />
+      <option value="$PROJECT_DIR$/jojo.py" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Python">
+      <summary usageCount="101" lastUsage="1672393114381" />
+    </language>
+    <language id="Shell Script">
+      <summary usageCount="6" lastUsage="1662212797837" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Python.jojo" executorId="Run" />
+      <element setting="Python.main" executorId="Run" />
+      <element setting="Python.app" executorId="Run" />
+      <element setting="Python.a" executorId="Run" />
+      <element setting="Python.b" executorId="Run" />
+      <element setting="Python.weight (1)" executorId="Run" />
+      <element setting="Python.getItem" executorId="Run" />
+      <element setting="Python.weight" executorId="Run" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="demo-history" />
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layoutV2>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2502604" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Services" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" show_stripe_button="false" weight="0.33021653" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="Database" order="1" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.25" />
+      <window_info anchor="right" id="Web Inspector" order="4" weight="0.25" />
+    </layoutV2>
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info id="Learn" order="1" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="3" visible="true" weight="0.2502604" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.33021653" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Python Packages" order="4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.33021653" />
+      <window_info anchor="bottom" id="Problems View" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.33021653" />
+      <window_info anchor="bottom" id="Services" order="10" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.25" />
+    </layout>
+    <recentWindows>
+      <value>Run</value>
+      <value>Project</value>
+      <value>Python Console</value>
+      <value>Terminal</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="355" y="88" width="1200" height="937" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1672331095191">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="355" y="88" width="1200" height="937" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1672331095191" />
+    <state x="637" y="197" width="636" height="719" key="FileChooserDialogImpl" timestamp="1672394132824">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="637" y="197" width="636" height="719" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1672394132823" />
+    <state width="1796" height="272" key="GridCell.Tab.0.bottom" timestamp="1672340398695">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1796" height="272" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1672340398695" />
+    <state width="1796" height="272" key="GridCell.Tab.0.center" timestamp="1672340398695">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1796" height="272" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1672340398695" />
+    <state width="1796" height="272" key="GridCell.Tab.0.left" timestamp="1672340398695">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1796" height="272" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1672340398695" />
+    <state width="1796" height="272" key="GridCell.Tab.0.right" timestamp="1672340398695">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1796" height="272" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1672340398695" />
+    <state x="221" y="27" width="1467" height="1053" key="SettingsEditor" timestamp="1672394071696">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="221" y="27" width="1467" height="1053" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1672394071696" />
+    <state x="567" y="119" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1672339086318">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="567" y="119" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1920.1053@0.27.1920.1053" timestamp="1672339086318" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/getItem.py" />
+    <entry file="file://$PROJECT_DIR$/config.py" />
+    <entry file="file://$PROJECT_DIR$/createdb.py" />
+    <entry file="file://$PROJECT_DIR$/getWeight.py" />
+    <entry file="file://$PROJECT_DIR$/hstatus.py" />
+    <entry file="file://$PROJECT_DIR$/postWeight.py" />
+    <entry file="file://$PROJECT_DIR$/weight.py" />
+    <entry file="file://$USER_HOME$/Develeap/week_3/jacob-gan-shmuel/gan-shmuel/Weight/pyapp/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Develeap/week_3/jacob-gan-shmuel/gan-shmuel/Weight/pyapp/getItem.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="13" column="27" lean-forward="true" selection-end-line="52" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/entry.sh" />
+    <entry file="file://$USER_HOME$/Develeap/week_3/jacob-gan-shmuel/gan-shmuel/Weight/pyapp/weight.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Develeap/week_4/day_2/foodtrucks/project/init.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Develeap/week_4/day_2/foodtrucks/project/flask-app/entry.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Develeap/week_3/jacob-gan-shmuel/gan-shmuel/Weight/pyapp/c.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="14" selection-start-line="8" selection-end-line="14" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Develeap/week_3/jacob-gan-shmuel/gan-shmuel/Weight/pyapp/b.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Develeap/week_3/jacob-gan-shmuel/gan-shmuel/Weight/pyapp/createdb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Develeap/week_3/jacob-gan-shmuel/gan-shmuel/Weight/pyapp/hstatus.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Develeap/week_3/jacob-gan-shmuel/gan-shmuel/Weight/pyapp/postWeight.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#76#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Develeap/week_3/jacob-gan-shmuel/gan-shmuel/Weight/pyapp/getWeight.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Develeap/week_4/day_2/foodtrucks/project/flask-app/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Develeap/week_3/jacob-gan-shmuel/gan-shmuel/Weight/pyapp/a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jojo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

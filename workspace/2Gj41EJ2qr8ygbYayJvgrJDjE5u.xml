@@ -1,0 +1,228 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="devops2710" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="770">
+              <caret line="75" selection-start-line="75" selection-end-line="75" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flask_app.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/words.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="6" column="9" selection-start-line="6" selection-end-line="6" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/names.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="18" lastUsed="1669799520643" />
+    </fileType>
+    <fileType name="Python">
+      <summary usageCount="53" lastUsed="1669799520620" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/4.py" />
+      <option value="$PROJECT_DIR$/main.py" />
+      <option value="$PROJECT_DIR$/1.py" />
+      <option value="$PROJECT_DIR$/3.py" />
+      <option value="$PROJECT_DIR$/flask.py" />
+      <option value="$PROJECT_DIR$/words.txt" />
+      <option value="$PROJECT_DIR$/pillow_work.py" />
+      <option value="$PROJECT_DIR$/flask_app.py" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Python">
+      <summary usageCount="53" lastUsage="1669799520620" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="18" lastUsage="1669799520643" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="devops2710" type="b2602c69:ProjectViewProjectNode" />
+              <item name="devops2710" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Python.flask_app" executorId="Run" />
+      <element setting="Python.3" executorId="Run" />
+      <element setting="Python.1" executorId="Run" />
+      <element setting="Python.main" executorId="Run" />
+      <element setting="Python.4" executorId="Run" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="devops2710-history" />
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.2502604" />
+      <window_info id="Learn" order="2" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.33021653" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Python Packages" order="4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.33021653" />
+      <window_info anchor="bottom" id="Problems View" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.33021653" />
+      <window_info anchor="bottom" id="Services" order="10" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.2502604" />
+      <window_info id="Learn" order="2" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33021653" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Python Packages" order="4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.33021653" />
+      <window_info anchor="bottom" id="Problems View" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.33021653" />
+      <window_info anchor="bottom" id="Services" order="10" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.25" />
+    </layout-to-restore>
+    <recentWindows>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Terminal</value>
+      <value>Python Console</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="455" y="163" width="1000" height="787" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1669021702121">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="455" y="163" width="1000" height="787" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1669021702121" />
+    <state x="695" y="251" key="FileChooserDialogImpl" timestamp="1668703414511">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="695" y="251" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1668703414511" />
+    <state width="1864" height="300" key="GridCell.Tab.0.bottom" timestamp="1668706290062">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1864" height="300" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1668706290062" />
+    <state width="2504" height="419" key="GridCell.Tab.0.bottom/0.27.2560.1413@0.27.2560.1413" timestamp="1667894661092" />
+    <state width="1864" height="300" key="GridCell.Tab.0.center" timestamp="1668706290062">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1864" height="300" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1668706290062" />
+    <state width="2504" height="419" key="GridCell.Tab.0.center/0.27.2560.1413@0.27.2560.1413" timestamp="1667894661092" />
+    <state width="1864" height="300" key="GridCell.Tab.0.left" timestamp="1668706290062">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1864" height="300" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1668706290062" />
+    <state width="2504" height="419" key="GridCell.Tab.0.left/0.27.2560.1413@0.27.2560.1413" timestamp="1667894661092" />
+    <state width="1864" height="300" key="GridCell.Tab.0.right" timestamp="1668706290062">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1864" height="300" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1668706290062" />
+    <state width="2504" height="419" key="GridCell.Tab.0.right/0.27.2560.1413@0.27.2560.1413" timestamp="1667894661092" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/4.py" />
+    <entry file="file://$PROJECT_DIR$/1.py" />
+    <entry file="file://$PROJECT_DIR$/pillow_work.py" />
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_app.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/words.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="6" column="9" selection-start-line="6" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/names.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

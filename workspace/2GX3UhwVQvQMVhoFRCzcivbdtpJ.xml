@@ -1,0 +1,178 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="spotify-playlist" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/time_machine_engine.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/token.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="9" lastUsed="1669190735596" />
+    </fileType>
+    <fileType name="Python">
+      <summary usageCount="14" lastUsed="1669190735521" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/time-machine-engine.py" />
+      <option value="$PROJECT_DIR$/time_machine_engine.py" />
+      <option value="$PROJECT_DIR$/main.py" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Python">
+      <summary usageCount="14" lastUsage="1669190735521" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="9" lastUsage="1669190735596" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spotify-playlist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spotify-playlist" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Python.main" executorId="Run" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="spotify-playlist-history" />
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.19921875" />
+      <window_info id="Learn" order="2" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.24360237" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Python Packages" order="4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Problems View" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.44734251" />
+      <window_info anchor="bottom" id="Services" order="10" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.25" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Terminal</value>
+      <value>Run</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1864" height="212" key="GridCell.Tab.0.bottom" timestamp="1667767200105">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1864" height="212" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1667767200105" />
+    <state width="2504" height="300" key="GridCell.Tab.0.bottom/0.27.2560.1413@0.27.2560.1413" timestamp="1666781468360" />
+    <state width="1864" height="212" key="GridCell.Tab.0.center" timestamp="1667767200105">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1864" height="212" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1667767200105" />
+    <state width="2504" height="300" key="GridCell.Tab.0.center/0.27.2560.1413@0.27.2560.1413" timestamp="1666781468360" />
+    <state width="1864" height="212" key="GridCell.Tab.0.left" timestamp="1667767200105">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1864" height="212" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1667767200105" />
+    <state width="2504" height="300" key="GridCell.Tab.0.left/0.27.2560.1413@0.27.2560.1413" timestamp="1666781468360" />
+    <state width="1864" height="212" key="GridCell.Tab.0.right" timestamp="1667767200105">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1864" height="212" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1667767200105" />
+    <state width="2504" height="300" key="GridCell.Tab.0.right/0.27.2560.1413@0.27.2560.1413" timestamp="1666781468360" />
+    <state x="324" y="101" width="1271" height="912" key="SettingsEditor" timestamp="1667494545424">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="324" y="101" width="1271" height="912" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1667494545424" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/time_machine_engine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/token.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

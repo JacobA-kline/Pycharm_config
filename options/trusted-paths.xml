@@ -1,0 +1,51 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/Desktop" value="true" />
+        <entry key="$USER_HOME$/Develeap/week_3/day_1/jacob-python-workshop/1" value="true" />
+        <entry key="$USER_HOME$/Develeap/week_3/day_1/jacob-python-workshop/2" value="true" />
+        <entry key="$USER_HOME$/Develeap/week_3/day_1/jacob-python-workshop/3" value="true" />
+        <entry key="$USER_HOME$/Develeap/week_3/day_1/jacob-python-workshop/4" value="true" />
+        <entry key="$USER_HOME$/Develeap/week_3/day_1/jacob-python-workshop/5" value="true" />
+        <entry key="$USER_HOME$/Develeap/week_3/day_1/jacob-python-workshop/6" value="true" />
+        <entry key="$USER_HOME$/Develeap/week_3/day_1/jacob-python-workshop/7" value="true" />
+        <entry key="$USER_HOME$/Develeap/week_4/day_2/foodtrucks/project" value="true" />
+        <entry key="$USER_HOME$/Develeap/week_4/day_2/foodtrucks/project/flask-app" value="true" />
+        <entry key="$USER_HOME$/Downloads/tip_calc" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/WorldOfGames" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/amazon_price_tracker" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/backend-developer-task" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/bash-scripts" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/blog" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/chat-project" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/demo" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/devops2710" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/draft" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/flight-club" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/higher-lower-game" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/jinja-templating" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/jk-website" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/linkedin-job-seeker" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/name-card" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/password-manager" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/pillow-work" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/pythonProject" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/scraping-practice" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/selenium-practice" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/spotify-playlist" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/sum-columns" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/sum_columns " value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/workshop-project" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/Develeap/week_3/day_1/jacob-python-workshop" />
+        <option value="$USER_HOME$" />
+      </list>
+    </option>
+  </component>
+</application>

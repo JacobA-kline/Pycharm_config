@@ -1,0 +1,30 @@
+<project version="4">
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="1" lastUsed="1672222058178" />
+    </fileType>
+    <fileType name="Python">
+      <summary usageCount="3" lastUsed="1674113842745" />
+    </fileType>
+    <fileType name="YAML">
+      <summary usageCount="1" lastUsed="1674113843292" />
+    </fileType>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Python">
+      <summary usageCount="3" lastUsage="1674113842749" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="1" lastUsage="1672222058178" />
+    </language>
+    <language id="yaml">
+      <summary usageCount="1" lastUsage="1674113843292" />
+    </language>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="637" y="197" width="636" height="719" key="FileChooserDialogImpl" timestamp="1674115125098">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="637" y="197" width="636" height="719" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1674115125098" />
+  </component>
+</project>
